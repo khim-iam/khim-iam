@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ZKP, Blockchain Dev, AI/ML<br>👯 I’m looking to collaborate on on-chain apps and games creation<br>🤝 I’m looking for help with research oriented ZKP<br>🌱 I’m currently mastering Rust, React, Applied Cryptography<br>💬 Ask me about Web3<br>
+🔭 I’m currently working on ZKP, Blockchain Dev, AI/ML<br>👯 Looking to collaborate on on-chain apps and games creation<br>🤝 Open to receiving gigs related to research oriented ZKP<br>🌱 Mastering Rust, React, Applied Cryptography<br>💬 Ask me about Web3, AI and Anime<br>
 
 
 ## 🌐 Socials:
